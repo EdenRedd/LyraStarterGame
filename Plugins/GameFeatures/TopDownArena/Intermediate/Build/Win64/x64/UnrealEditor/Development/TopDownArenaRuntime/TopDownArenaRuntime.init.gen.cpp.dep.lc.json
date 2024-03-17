@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ojeda\\onedrive\\documents\\projectsunreal\\lyrastartergame\\plugins\\gamefeatures\\topdownarena\\intermediate\\build\\win64\\unrealeditor\\inc\\topdownarenaruntime\\uht\\topdownarenaruntime.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ojeda\\onedrive\\documents\\projectsunreal\\lyrastartergame\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ojeda\\onedrive\\documents\\projectsunreal\\lyrastartergame\\plugins\\gamefeatures\\topdownarena\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\topdownarenaruntime\\definitions.topdownarenaruntime.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

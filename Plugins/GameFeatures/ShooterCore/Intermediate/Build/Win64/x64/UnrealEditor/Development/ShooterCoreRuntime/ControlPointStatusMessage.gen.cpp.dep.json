@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ojeda\\onedrive\\documents\\projectsunreal\\lyrastartergame\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealeditor\\inc\\shootercoreruntime\\uht\\controlpointstatusmessage.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ojeda\\onedrive\\documents\\projectsunreal\\lyrastartergame\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ojeda\\onedrive\\documents\\projectsunreal\\lyrastartergame\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shootercoreruntime\\definitions.shootercoreruntime.h",
+            "c:\\users\\ojeda\\onedrive\\documents\\projectsunreal\\lyrastartergame\\plugins\\gamefeatures\\shootercore\\source\\shootercoreruntime\\public\\messages\\controlpointstatusmessage.h",
+            "c:\\users\\ojeda\\onedrive\\documents\\projectsunreal\\lyrastartergame\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealeditor\\inc\\shootercoreruntime\\uht\\controlpointstatusmessage.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
